@@ -1,0 +1,62 @@
+body {
+  background-color:#777799;
+  padding: 0px;
+  margin: 0px;
+}
+.some {
+  background: linear-gradient(150deg,#008aff,#ff137d,#008a);
+  color: rgb(10, 20, 20);
+  padding:  10.5%;
+  margin: 0%;
+  border-radius: 0 0 100% 100%/ 0 0 100% 100%;
+  transform: scaleX(1);
+}
+.well {
+  /* background-color: rgb(223, 122, 223); */
+  height: 40vmin;
+  text-align: center;
+}
+.awsm {
+  padding: 20px;
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+ background-color: green;
+  font-weight: bold;
+  font-size: large;
+}
+.awsm:disabled {  
+  background-color:rgb(69, 14, 196);
+}
+.yes{
+  padding: 20px;
+  height: 80px;
+  width: 80px;
+  margin: 20px;
+border-radius: 50%;
+background-color: rgb(185, 34, 54);
+font-weight: bold;
+font-size: large;
+}
+.no {
+  padding: 20px;
+  height: 80px;
+  width: 80px;
+  margin: 20px;
+border-radius: 50%;
+/* background-color: #bbff00; */
+background: linear-gradient(50deg,#ff0051,#ff0,rgba(41, 41, 161, 0.667));
+font-weight: bold;
+font-size: large;
+}
+.good {
+  /* background-color: coral; */
+  background: linear-gradient(150deg,#008aff,#ff137d,#008a);
+  margin: 4% 30%;
+  padding:  1%;
+  border-radius: 20px;
+  
+}
+.aaa {
+  color:#070113
+}
